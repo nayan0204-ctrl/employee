@@ -46,7 +46,6 @@ The application allows users to input employee details such as experience, salar
 | Model | Accuracy |
 |------|----------|
 | Decision Tree | **93.55%** |
-| SVM | ~93% |
 | Random Forest | ~90% |
 
 ---
